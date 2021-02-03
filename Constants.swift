@@ -12,8 +12,6 @@ struct Constants {
   
     
     struct Storyboard { //constains all strings for storyboard
-       static let homeViewController = "HomeVC"
-        //static keyword allows us to access without having to create instances of this structure
-        
+       static let homeViewController = "HomeVC"        
     }
 }
