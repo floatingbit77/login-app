@@ -4,7 +4,7 @@
 //
 //  Created by Abigail Taylor on 7/24/20.
 //  Copyright © 2020 Abigail Taylor. All rights reserved.
-//
+// note taking with Firebase 
 
 import Foundation
 import Firebase
